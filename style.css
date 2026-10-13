@@ -1,0 +1,30 @@
+body{
+    background-image: url(https://img.magnific.com/free-photo/badminton-concept-with-dramatic-lighting_23-2149940936.jpg?semt=ais_hybrid&w=740&q=80)
+}
+
+h1{
+    font-family: playfair;
+}
+
+h3{
+    background-color:rgb(89, 0, 149)
+}
+
+img{
+    width: 175px;
+    padding-top: 50px;
+}
+
+.row{
+    flex-direction: row;
+    gap: 20px;
+    justify-content: space-between;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+footer{
+    color:aliceblue;
+    text-align: center;
+    padding: 50px;
+}
